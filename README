@@ -1,0 +1,9 @@
+        Info-gathering
+
+Python Script to Search Shodan for hosts (Single IP, a list of IPs, IP given in CIDR).
+
+Requirements: python modules
+
+shodan
+iptools
+Install these python modules using: pip install shodan pip install iptools
