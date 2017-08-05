@@ -1,5 +1,6 @@
         Info-gathering
 
+SBShodan.py
 Python Script to Search Shodan for hosts (Single IP, a list of IPs, IP given in CIDR).
 
 Requirements: python modules
@@ -7,3 +8,12 @@ Requirements: python modules
 shodan
 iptools
 Install these python modules using: pip install shodan pip install iptools
+
+
+webheaders.py:
+A simple script to request and display web server header information for a specified URL or server.
+
+
+
+
+
